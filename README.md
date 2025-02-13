@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi, I'm Tobias!
+=========================
 
-<!--
-**halfspacer/halfspacer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Unity XR & Game/Software Developer 🚀
 
-Here are some ideas to get you started:
+Creative Unity XR and Game/Software Developer with 7+ years of experience crafting impactful, immersive, and scalable XR games and applications. Currently building a creator-first AR platform at [ZAUBAR](https://www.zaubar.com/). Passionate about mobile performance optimization 📱, shaders 🎨, and software architecture 🏗️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  Based in Berlin, Germany 🇩🇪 (originally from Sweden 🇸🇪)
+* 🚀  Meta Horizon Start developer
+* 🧠  Improving my Web Dev skills 💻
+* 🌱  Exploring AI/ML
+* ⚡️  Favorite Game: The Last of Us Part II 🎮
+* 🕹️  Most Binged Game: Rust
+
+### Skills 🛠️
+
+*   Unity
+*   C#
+*   XR Development (AR/VR)
+*   Mobile Performance Optimization
+*   Shader Development
+*   Software Architecture
+*   Backend Development
+*   Web Development
+
+### Socials 🌐
+
+*   [LinkedIn](https://linkedin.com/in/halfspacer/) 💼
+*   [BlueSky](https://bsky.app/profile/halfspacer.bsky.social) 🦋
+*   [Discord](https://discordapp.com/users/183879663314141184) 🎮
