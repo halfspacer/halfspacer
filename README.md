@@ -1,7 +1,7 @@
 👋 Hi, I'm Tobias!
 =========================
 
-🎮 Unity XR & Game/Software Developer 🚀
+🎮 Unity XR & Game/Software Developer and Millennial Plant Dad 🚀
 
 Creative Unity XR and Game/Software Developer with 7+ years of experience crafting impactful, immersive, and scalable XR games and applications. Currently building a creator-first AR platform at [ZAUBAR](https://www.zaubar.com/). Passionate about mobile performance optimization 📱, shaders 🎨, and software architecture 🏗️.
 
@@ -10,7 +10,7 @@ Creative Unity XR and Game/Software Developer with 7+ years of experience crafti
 * 🧠  Improving my Web Dev skills 💻
 * 🌱  Exploring AI/ML
 * ⚡️  Favorite Game: The Last of Us Part II 🎮
-* 🕹️  Most Binged Game: Rust
+* 🕹️  Most Binged Game: Rust (DayZ gets an honorable mention)
 
 ### Skills 🛠️
 
